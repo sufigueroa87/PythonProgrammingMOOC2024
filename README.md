@@ -24,14 +24,14 @@ Course from: https://programming-24.mooc.fi/
 4. [Fix the code: Print a single line](part01/03_more_about_variables/04_print_a_single_line.py)
 
 ### Arithmetic operations
-1. [Times five]()
-2. [Name and age]()
-3. [Seconds in a day]()
-4. [Fix the code: Product]()
-5. [Sum and product]()
-6. [Sum and mean]()
-7. [Food expenditure]()
-8. [Students in groups]()
+1. [Times five](part01/04_arithmetic_operations/01_times_five.py)
+2. [Name and age](part01/04_arithmetic_operations/02_name_and_age.py)
+3. [Seconds in a day](part01/04_arithmetic_operations/03_seconds_in_a_day.py)
+4. [Fix the code: Product](part01/04_arithmetic_operations/04_product.py)
+5. [Sum and product](part01/04_arithmetic_operations/05_sum_and_product.py)
+6. [Sum and mean](part01/04_arithmetic_operations/06_sum_and_men.py)
+7. [Food expenditure](part01/04_arithmetic_operations/07_food_expediture.py)
+8. [Students in groups](part01/04_arithmetic_operations/08_students_in_groups.py)
 
 ### Conditional statements
 1. [Orwell]()
