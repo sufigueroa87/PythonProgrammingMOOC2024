@@ -11,11 +11,11 @@ Course from: https://programming-24.mooc.fi/
 5. [Programming exercise: Print some code](part01/01_getting_started/05_print_code.py)
 
 ### Information from the user
-1. Programming exercise: Name twice
-2. Programming exercise: Name and exclamation marks
-3. Programming exercise: Name and address
-4. Programming exercise: Fix the code: Utterances
-5. Programming exercise: Story
+1. [Programming exercise: Name twice](part01/02_information_from_the_user/01_name_twice.py)
+2. [Programming exercise: Name and exclamation marks](part01/02_information_from_the_user/02_name_and_exclamation_marks.py)
+3. [Programming exercise: Name and address](part01/02_information_from_the_user/03_name_and_address.py)
+4. [Programming exercise: Fix the code: Utterances](part01/02_information_from_the_user/04_utterances.py)
+5. [Programming exercise: Story](part01/02_information_from_the_user/05_story.py)
 
 ### More about variables
 1. Quiz: Background information
