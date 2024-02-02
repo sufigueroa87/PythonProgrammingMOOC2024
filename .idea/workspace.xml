@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5de9171a-66f4-4e37-a063-d99d49bc19ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/part01/03_more_about_variables/02_extra_space.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/03_more_about_variables/03_arithmetics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/03_more_about_variables/04_print_a_single_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/01_times_five.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/02_name_and_age.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/03_seconds_in_a_day.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/04_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/05_sum_and_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/06_sum_and_men.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/07_food_expediture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/08_students_in_groups.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706887932864</updated>
       <workItem from="1706887934366" duration="364000" />
-      <workItem from="1706888309513" duration="12951000" />
+      <workItem from="1706888309513" duration="13275000" />
     </task>
     <servers />
   </component>
