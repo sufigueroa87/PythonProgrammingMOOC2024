@@ -4,9 +4,9 @@ Course from: https://programming-24.mooc.fi/
 ## Part 1
 
 ### Getting started
-1. [Programming exercise: Emoticon](part1/1.gettingStarted/1.emoticon.py)
-2. [Programming exercise: Fix the code: Seven Brothers](part1/1.gettingStarted/2.fixTheCodeSevenBrothers.py)
-3. [Programming exercise: Row, Row, Row Your Boat](part1/1.gettingStarted/3.rowRowRowYourBoat.py)
+1. [Programming exercise: Emoticon](part01/01_getting_started/01_emoticon.py)
+2. [Programming exercise: Fix the code: Seven Brothers](part01/01_getting_started/02_seven_brothers.py)
+3. [Programming exercise: Row, Row, Row Your Boat](part01/01_getting_started/03_row_your_boat.py)
 4. Programming exercise: Minutes in a year
 5. Programming exercise: Print some code
 
