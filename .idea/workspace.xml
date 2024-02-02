@@ -5,6 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5de9171a-66f4-4e37-a063-d99d49bc19ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/part01/03_more_about_variables/02_extra_space.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part01/03_more_about_variables/03_arithmetics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part01/03_more_about_variables/04_print_a_single_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/01_times_five.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/02_name_and_age.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/03_seconds_in_a_day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/04_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/05_sum_and_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/06_sum_and_men.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/07_food_expediture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part01/04_arithmetic_operations/08_students_in_groups.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,13 +41,16 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2boif72CWn9WmLLR0pasX0PvzKv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.01_name_twice.executor": "Run",
     "Python.02_name_and_exclamation_marks.executor": "Run",
     "Python.03_row_your_boat.executor": "Run",
@@ -71,12 +86,15 @@
       <option name="presentableId" value="Default" />
       <updated>1706887932864</updated>
       <workItem from="1706887934366" duration="364000" />
-      <workItem from="1706888309513" duration="10139000" />
+      <workItem from="1706888309513" duration="12951000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$03_row_your_boat.coverage" NAME="03_row_your_boat Coverage Results" MODIFIED="1706896633431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/01_getting_started" />
