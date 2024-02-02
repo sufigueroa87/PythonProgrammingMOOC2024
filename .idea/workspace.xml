@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5de9171a-66f4-4e37-a063-d99d49bc19ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part01/01_getting_started/01_emoticon.py" beforeDir="false" afterPath="$PROJECT_DIR$/part01/01_getting_started/01_emoticon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part01/01_getting_started/02_seven_brothers.py" beforeDir="false" afterPath="$PROJECT_DIR$/part01/01_getting_started/02_seven_brothers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/part01/01_getting_started/03_row_your_boat.py" beforeDir="false" afterPath="$PROJECT_DIR$/part01/01_getting_started/03_row_your_boat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01/01_getting_started/04_minutes_in_a_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/part01/01_getting_started/04_minutes_in_a_year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01/01_getting_started/05_print_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/part01/01_getting_started/05_print_code.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.03_row_your_boat.executor": "Run",
+    "Python.04_minutes_in_a_year.executor": "Run",
     "Python.2.fixTheCodeSevenBrothers.executor": "Run",
     "Python.Emoticon.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -63,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706887932864</updated>
       <workItem from="1706887934366" duration="364000" />
-      <workItem from="1706888309513" duration="6432000" />
+      <workItem from="1706888309513" duration="6937000" />
     </task>
     <servers />
   </component>
@@ -73,6 +74,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$03_row_your_boat.coverage" NAME="03_row_your_boat Coverage Results" MODIFIED="1706896633431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/01_getting_started" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$Emoticon.coverage" NAME="Emoticon Coverage Results" MODIFIED="1706891397071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part1/GettingStarted" />
+    <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$04_minutes_in_a_year.coverage" NAME="04_minutes_in_a_year Coverage Results" MODIFIED="1706897008726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/01_getting_started" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$2_fixTheCodeSevenBrothers.coverage" NAME="2.fixTheCodeSevenBrothers Coverage Results" MODIFIED="1706892383449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part1/1.gettingStarted" />
   </component>
 </project>
