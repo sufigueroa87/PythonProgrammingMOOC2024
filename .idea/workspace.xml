@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5de9171a-66f4-4e37-a063-d99d49bc19ca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProgrammingMOOC2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProgrammingMOOC2024.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1.GettingStarted/1.Emoticon.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/GettingStarted/Emoticon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1.GettingStarted/2.FixTheCodeSevenBrothers.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/GettingStarted/2.FixTheCodeSevenBrothers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1.GettingStarted/3.RowRowRowYourBoat.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/GettingStarted/3.RowRowRowYourBoat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1.GettingStarted/4.MinutsInAYear.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/GettingStarted/4.MinutsInAYear.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1.GettingStarted/5.PrintSomeCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/GettingStarted/5.PrintSomeCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/1.GettingStarted/1.Emoticon.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/1.GettingStarted/1.Emoticon.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706887932864</updated>
       <workItem from="1706887934366" duration="364000" />
-      <workItem from="1706888309513" duration="1074000" />
+      <workItem from="1706888309513" duration="1479000" />
     </task>
     <servers />
   </component>
@@ -70,6 +63,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$Emoticon.coverage" NAME="Emoticon Coverage Results" MODIFIED="1706888765732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part1/GettingStarted" />
+    <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$Emoticon.coverage" NAME="Emoticon Coverage Results" MODIFIED="1706891397071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part1/GettingStarted" />
   </component>
 </project>
