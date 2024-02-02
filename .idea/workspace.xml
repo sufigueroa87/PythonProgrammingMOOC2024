@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5de9171a-66f4-4e37-a063-d99d49bc19ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part01/03_more_about_variables/02_extra_space.py" beforeDir="false" afterPath="$PROJECT_DIR$/part01/03_more_about_variables/02_extra_space.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part01/03_more_about_variables/03_arithmetics.py" beforeDir="false" afterPath="$PROJECT_DIR$/part01/03_more_about_variables/03_arithmetics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part01/03_more_about_variables/04_print_a_single_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/part01/03_more_about_variables/04_print_a_single_line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706887932864</updated>
       <workItem from="1706887934366" duration="364000" />
-      <workItem from="1706888309513" duration="16335000" />
+      <workItem from="1706888309513" duration="16681000" />
     </task>
     <servers />
   </component>
