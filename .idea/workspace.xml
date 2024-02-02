@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5de9171a-66f4-4e37-a063-d99d49bc19ca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01/03_more_about_variables/02_extra_space.py" beforeDir="false" afterPath="$PROJECT_DIR$/part01/03_more_about_variables/02_extra_space.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01/03_more_about_variables/03_arithmetics.py" beforeDir="false" afterPath="$PROJECT_DIR$/part01/03_more_about_variables/03_arithmetics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part01/03_more_about_variables/04_print_a_single_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/part01/03_more_about_variables/04_print_a_single_line.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +43,12 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.01_name_twice.executor": "Run",
+    "Python.02_extra_space.executor": "Run",
     "Python.02_name_and_exclamation_marks.executor": "Run",
+    "Python.03_arithmetics.executor": "Run",
     "Python.03_row_your_boat.executor": "Run",
     "Python.04_minutes_in_a_year.executor": "Run",
+    "Python.04_print_a_single_line.executor": "Run",
     "Python.05_story.executor": "Run",
     "Python.2.fixTheCodeSevenBrothers.executor": "Run",
     "Python.Emoticon.executor": "Run",
@@ -74,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706887932864</updated>
       <workItem from="1706887934366" duration="364000" />
-      <workItem from="1706888309513" duration="13275000" />
+      <workItem from="1706888309513" duration="16335000" />
     </task>
     <servers />
   </component>
@@ -86,7 +92,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$03_row_your_boat.coverage" NAME="03_row_your_boat Coverage Results" MODIFIED="1706896633431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/01_getting_started" />
+    <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$04_print_a_single_line.coverage" NAME="04_print_a_single_line Coverage Results" MODIFIED="1706908350528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/03_more_about_variables" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$Emoticon.coverage" NAME="Emoticon Coverage Results" MODIFIED="1706891397071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part1/GettingStarted" />
+    <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$03_arithmetics.coverage" NAME="03_arithmetics Coverage Results" MODIFIED="1706907948264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/03_more_about_variables" />
+    <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$02_extra_space.coverage" NAME="02_extra_space Coverage Results" MODIFIED="1706907209552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/03_more_about_variables" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$01_name_twice.coverage" NAME="01_name_twice Coverage Results" MODIFIED="1706898142115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/02_information_from_the_user" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$02_name_and_exclamation_marks.coverage" NAME="02_name_and_exclamation_marks Coverage Results" MODIFIED="1706898362539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/02_information_from_the_user" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$05_story.coverage" NAME="05_story Coverage Results" MODIFIED="1706899907354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/02_information_from_the_user" />
