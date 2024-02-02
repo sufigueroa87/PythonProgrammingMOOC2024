@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5de9171a-66f4-4e37-a063-d99d49bc19ca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1.GettingStarted/1.Emoticon.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/1.gettingStarted/1.emoticon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1.GettingStarted/2.FixTheCodeSevenBrothers.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/1.gettingStarted/2.fixTheCodeSevenBrothers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1.GettingStarted/3.RowRowRowYourBoat.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/1.gettingStarted/3.rowRowRowYourBoat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1.GettingStarted/4.MinutsInAYear.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/1.gettingStarted/4.minutsInAYear.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1.GettingStarted/5.PrintSomeCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/1.gettingStarted/5.printSomeCode.py" afterDir="false" />
-    </list>
+    <list default="true" id="5de9171a-66f4-4e37-a063-d99d49bc19ca" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706887932864</updated>
       <workItem from="1706887934366" duration="364000" />
-      <workItem from="1706888309513" duration="2094000" />
+      <workItem from="1706888309513" duration="2402000" />
     </task>
     <servers />
   </component>
