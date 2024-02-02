@@ -18,7 +18,7 @@ Course from: https://programming-24.mooc.fi/
 5. [Story](part01/02_information_from_the_user/05_story.py)
 
 ### More about variables
-1. It was a Quizz.
+1. It was a quizz
 2. [Extra space](part01/03_more_about_variables/02_extra_space.py)
 3. [Arithmetics](part01/03_more_about_variables/03_arithmetics.py)
 4. [Fix the code: Print a single line](part01/03_more_about_variables/04_print_a_single_line.py)
