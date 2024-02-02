@@ -7,8 +7,8 @@ Course from: https://programming-24.mooc.fi/
 1. [Programming exercise: Emoticon](part01/01_getting_started/01_emoticon.py)
 2. [Programming exercise: Fix the code: Seven Brothers](part01/01_getting_started/02_seven_brothers.py)
 3. [Programming exercise: Row, Row, Row Your Boat](part01/01_getting_started/03_row_your_boat.py)
-4. Programming exercise: Minutes in a year
-5. Programming exercise: Print some code
+4. [Programming exercise: Minutes in a year](part01/01_getting_started/04_minutes_in_a_year.py)
+5. [Programming exercise: Print some code](part01/01_getting_started/05_print_code.py)
 
 ### Information from the user
 1. Programming exercise: Name twice
