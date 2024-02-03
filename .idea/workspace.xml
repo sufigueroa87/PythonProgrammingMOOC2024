@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5de9171a-66f4-4e37-a063-d99d49bc19ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/part01/05_conditional_statements/01_orwell.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/05_conditional_statements/02_absolute_value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/05_conditional_statements/03_soup_or_no_soup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/05_conditional_statements/04_order_of_magnitude.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/05_conditional_statements/05_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/05_conditional_statements/06_temperatures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/05_conditional_statements/07_daily_wages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/05_conditional_statements/08_loyalty_bonus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/05_conditional_statements/09_what_to_wear_tomorrow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part01/05_conditional_statements/10_quadratic_formula.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/01_programming_terminology/01_fix_syntax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/01_programming_terminology/02_number_of_characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/01_programming_terminology/03_typecasting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/02_more_conditionals/01_age_of_maturity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/02_more_conditionals/02_greater_or_equal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/02_more_conditionals/03_elder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/02_more_conditionals/04_alphabetically_last.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/03_combining_conditions/01_age_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/03_combining_conditions/02_nephews.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/03_combining_conditions/03_grades_and_points.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/03_combining_conditions/04_fizzbuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/03_combining_conditions/05_leap_year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/03_combining_conditions/06_alphabetically_in_the_middle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/03_combining_conditions/07_gift_tax_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/04_simple_loops/01_shall_we_continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/04_simple_loops/02_input_validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/04_simple_loops/03_countdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/04_simple_loops/04_repeat_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/04_simple_loops/05_pin_and_number_of_attempts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/04_simple_loops/06_next_leap_year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/04_simple_loops/07_story.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part02/04_simple_loops/08_working_with_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5de9171a-66f4-4e37-a063-d99d49bc19ca" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706887932864</updated>
       <workItem from="1706887934366" duration="364000" />
-      <workItem from="1706888309513" duration="26553000" />
+      <workItem from="1706888309513" duration="27042000" />
     </task>
     <servers />
   </component>

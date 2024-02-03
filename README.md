@@ -34,12 +34,12 @@ Course from: https://programming-24.mooc.fi/
 8. [Students in groups](part01/04_arithmetic_operations/08_students_in_groups.py)
 
 ### Conditional statements
-1. [Orwell]()
-2. [Absolute value]()
-3. [Soup or no soup]()
-4. [Order of magnitude]()
-5. [Calculator]()
-6. [Temperatures]()
+1. [Orwell](part01/05_conditional_statements/01_orwell.py)
+2. [Absolute value](part01/05_conditional_statements/02_absolute_value.py)
+3. [Soup or no soup](part01/05_conditional_statements/03_soup_or_no_soup.py)
+4. [Order of magnitude](part01/05_conditional_statements/04_order_of_magnitude.py)
+5. [Calculator](part01/05_conditional_statements/05_calculator.py)
+6. [Temperatures](part01/05_conditional_statements/06_temperatures.py)
 7. [Daily wages]()
 8. [Loyalty bonus]()
 9. [What to wear tomorrow]()
