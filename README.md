@@ -40,9 +40,9 @@ Course from: https://programming-24.mooc.fi/
 4. [Order of magnitude](part01/05_conditional_statements/04_order_of_magnitude.py)
 5. [Calculator](part01/05_conditional_statements/05_calculator.py)
 6. [Temperatures](part01/05_conditional_statements/06_temperatures.py)
-7. [Daily wages]()
-8. [Loyalty bonus]()
-9. [What to wear tomorrow]()
+7. [Daily wages](part01/05_conditional_statements/07_daily_wages.py)
+8. [Loyalty bonus](part01/05_conditional_statements/08_loyalty_bonus.py)
+9. [What to wear tomorrow](part01/05_conditional_statements/09_what_to_wear_tomorrow.py)
 10. [Solving a quadratic equation]()
 11. [Quiz: Feedback, part 1]()
 
