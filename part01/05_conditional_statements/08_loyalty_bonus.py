@@ -30,3 +30,17 @@
 # You now have 120.175 points
 #
 # Please fix the program so that there is always either a 10 % or a 15 % bonus, but never both.
+
+points = int(input("How many points are on your card?"))
+
+bonus = 0
+
+if points < 100:
+    bonus = bonus + 10
+    points = float(points + points*bonus/100)
+else:
+    bonus = bonus + 15
+    points = float(points + points*bonus/100)
+
+print(f"Your bonus is {bonus} %")
+print(f"You now have {points} points")

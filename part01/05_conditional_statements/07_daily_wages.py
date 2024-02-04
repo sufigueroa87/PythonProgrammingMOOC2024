@@ -13,3 +13,12 @@
 # Hours worked: 10
 # Day of the week: Sunday
 # Daily wages: 250.0 euros
+
+hourlyWage = float(input("Hourly wage: "))
+hoursWorked = int(input("Hours worked: "))
+dayOfTheWeek = input("Day of the week: ")
+
+if dayOfTheWeek == "Sunday":
+    hourlyWage = hourlyWage * 2
+
+print(f"Daily wages: {hourlyWage * hoursWorked} euros")
