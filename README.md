@@ -43,8 +43,8 @@ Course from: https://programming-24.mooc.fi/
 7. [Daily wages](part01/05_conditional_statements/07_daily_wages.py)
 8. [Loyalty bonus](part01/05_conditional_statements/08_loyalty_bonus.py)
 9. [What to wear tomorrow](part01/05_conditional_statements/09_what_to_wear_tomorrow.py)
-10. [Solving a quadratic equation]()
-11. [Quiz: Feedback, part 1]()
+10. [Solving a quadratic equation](part01/05_conditional_statements/10_quadratic_formula.py)
+11. It was a quizz
 
 
 ## Part 2
