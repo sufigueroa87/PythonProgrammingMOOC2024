@@ -29,3 +29,17 @@
 # Value of c: -8
 # 
 # The roots are 2.0 and -4.0
+
+from math import sqrt
+
+valueA = int(input("Value of a: "))
+valueB = int(input("Value of b: "))
+valueC = int(input("Value of c: "))
+
+floatRaiz = sqrt(valueB ** 2 - (4*valueA*valueC))
+
+result1 = ((-1*valueB) + floatRaiz) / (2*valueA)
+
+result2 = ((-1*valueB) - floatRaiz) / (2*valueA)
+
+print(f"The roots are {result1} and {result2}")
