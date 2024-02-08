@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5de9171a-66f4-4e37-a063-d99d49bc19ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part02/03_combining_conditions/01_age_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/03_combining_conditions/01_age_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part02/03_combining_conditions/02_nephews.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/03_combining_conditions/02_nephews.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part02/03_combining_conditions/03_grades_and_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/03_combining_conditions/03_grades_and_points.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part02/03_combining_conditions/04_fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/03_combining_conditions/04_fizzbuzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part02/03_combining_conditions/05_leap_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/03_combining_conditions/05_leap_year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +79,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/part03/02_working_with_strings" />
+      <recent name="$PROJECT_DIR$/part03/01_loops_with_conditions" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -104,6 +106,7 @@
       <workItem from="1707124763874" duration="2464000" />
       <workItem from="1707262155482" duration="3679000" />
       <workItem from="1707343919538" duration="3432000" />
+      <workItem from="1707411692135" duration="8700000" />
     </task>
     <servers />
   </component>
