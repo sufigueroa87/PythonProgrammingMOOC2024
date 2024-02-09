@@ -6,13 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="5de9171a-66f4-4e37-a063-d99d49bc19ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part02/03_combining_conditions/05_leap_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/03_combining_conditions/05_leap_year.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part02/03_combining_conditions/06_alphabetically_in_the_middle.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/03_combining_conditions/06_alphabetically_in_the_middle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part02/03_combining_conditions/07_gift_tax_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/03_combining_conditions/07_gift_tax_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02/04_simple_loops/01_shall_we_continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/04_simple_loops/01_shall_we_continue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02/04_simple_loops/02_input_validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/04_simple_loops/02_input_validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02/04_simple_loops/03_countdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/04_simple_loops/03_countdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02/04_simple_loops/04_repeat_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/04_simple_loops/04_repeat_password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02/04_simple_loops/05_pin_and_number_of_attempts.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/04_simple_loops/05_pin_and_number_of_attempts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02/04_simple_loops/06_next_leap_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/04_simple_loops/06_next_leap_year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02/04_simple_loops/07_story.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/04_simple_loops/07_story.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02/04_simple_loops/08_working_with_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/04_simple_loops/08_working_with_numbers.py" afterDir="false" />
     </list>
-    <list id="82729fd6-eb36-4169-b6da-282ecf3ff902" name="Changes by afcasco" comment="">
-      <change beforePath="$PROJECT_DIR$/part02/03_combining_conditions/05_leap_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/part02/03_combining_conditions/05_leap_year.py" afterDir="false" />
-    </list>
+    <list id="82729fd6-eb36-4169-b6da-282ecf3ff902" name="Changes by afcasco" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,12 +31,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sufigueroa87"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sufigueroa87&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -41,14 +44,6 @@
         <option name="url" value="git@github.com:sufigueroa87/PythonProgrammingMOOC2024.git" />
       </UrlAndAccount>
     </option>
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/part02/03_combining_conditions/05_leap_year.py">
-      <ranges>
-        <range start1="19" end1="21" start2="19" end2="24" changelist="5de9171a-66f4-4e37-a063-d99d49bc19ca" />
-        <range start1="22" end1="23" start2="25" end2="26" changelist="82729fd6-eb36-4169-b6da-282ecf3ff902" />
-      </ranges>
-    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -69,12 +64,14 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.01_name_twice.executor": "Run",
     "Python.01_orwell.executor": "Run",
+    "Python.01_shall_we_continue.executor": "Run",
     "Python.01_times_five.executor": "Run",
     "Python.02_extra_space.executor": "Run",
     "Python.02_name_and_age.executor": "Run",
     "Python.02_name_and_exclamation_marks.executor": "Run",
     "Python.02_number_of_characters.executor": "Run",
     "Python.03_arithmetics.executor": "Run",
+    "Python.03_countdown.executor": "Run",
     "Python.03_elder.executor": "Run",
     "Python.03_row_your_boat.executor": "Run",
     "Python.03_seconds_in_a_day.executor": "Run",
@@ -90,8 +87,11 @@
     "Python.06_alphabetically_in_the_middle.executor": "Run",
     "Python.06_sum_and_men.executor": "Run",
     "Python.07_food_expediture.executor": "Run",
+    "Python.07_gift_tax_calculator.executor": "Run",
+    "Python.07_story.executor": "Run",
     "Python.08_loyalty_bonus.executor": "Run",
     "Python.08_students_in_groups.executor": "Run",
+    "Python.08_working_with_numbers.executor": "Run",
     "Python.09_what_to_wear_tomorrow.executor": "Run",
     "Python.10_quadratic_formula.executor": "Run",
     "Python.2.fixTheCodeSevenBrothers.executor": "Run",
@@ -166,7 +166,8 @@
       <workItem from="1707262155482" duration="3679000" />
       <workItem from="1707343919538" duration="3432000" />
       <workItem from="1707411692135" duration="9893000" />
-      <workItem from="1707428495141" duration="3762000" />
+      <workItem from="1707428495141" duration="8826000" />
+      <workItem from="1707517818710" duration="3148000" />
     </task>
     <servers />
   </component>
@@ -178,8 +179,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$03_row_your_boat.coverage" NAME="03_row_your_boat Coverage Results" MODIFIED="1706896633431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/01_getting_started" />
-    <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$04_print_a_single_line.coverage" NAME="04_print_a_single_line Coverage Results" MODIFIED="1706908350528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/03_more_about_variables" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$03_seconds_in_a_day.coverage" NAME="03_seconds_in_a_day Coverage Results" MODIFIED="1706909765583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/04_arithmetic_operations" />
+    <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$04_print_a_single_line.coverage" NAME="04_print_a_single_line Coverage Results" MODIFIED="1706908350528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/03_more_about_variables" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$01_times_five.coverage" NAME="01_times_five Coverage Results" MODIFIED="1706909051488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/04_arithmetic_operations" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$01_name_twice.coverage" NAME="01_name_twice Coverage Results" MODIFIED="1706898142115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/02_information_from_the_user" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$03_elder.coverage" NAME="03_elder Coverage Results" MODIFIED="1707264643758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part02/02_more_conditionals" />
@@ -190,10 +191,14 @@
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$05_calculator.coverage" NAME="05_calculator Coverage Results" MODIFIED="1706919908264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/05_conditional_statements" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$02_name_and_age.coverage" NAME="02_name_and_age Coverage Results" MODIFIED="1706909557139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/04_arithmetic_operations" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$08_students_in_groups.coverage" NAME="08_students_in_groups Coverage Results" MODIFIED="1706912869414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/04_arithmetic_operations" />
+    <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$07_story.coverage" NAME="07_story Coverage Results" MODIFIED="1707519850670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part02/04_simple_loops" />
+    <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$01_shall_we_continue.coverage" NAME="01_shall_we_continue Coverage Results" MODIFIED="1707433205414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part02/04_simple_loops" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$06_sum_and_men.coverage" NAME="06_sum_and_men Coverage Results" MODIFIED="1706910315791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/04_arithmetic_operations" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$07_food_expediture.coverage" NAME="07_food_expediture Coverage Results" MODIFIED="1706910977029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/04_arithmetic_operations" />
+    <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$03_countdown.coverage" NAME="03_countdown Coverage Results" MODIFIED="1707434469232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part02/04_simple_loops" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$01_orwell.coverage" NAME="01_orwell Coverage Results" MODIFIED="1706917794976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/05_conditional_statements" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$02_extra_space.coverage" NAME="02_extra_space Coverage Results" MODIFIED="1706907209552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/03_more_about_variables" />
+    <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$07_gift_tax_calculator.coverage" NAME="07_gift_tax_calculator Coverage Results" MODIFIED="1707518265408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part02/03_combining_conditions" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$09_what_to_wear_tomorrow.coverage" NAME="09_what_to_wear_tomorrow Coverage Results" MODIFIED="1707051025946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/05_conditional_statements" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$04_alphabetically_last.coverage" NAME="04_alphabetically_last Coverage Results" MODIFIED="1707265119510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part02/02_more_conditionals" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$05_leap_year.coverage" NAME="05_leap_year Coverage Results" MODIFIED="1707429748743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part02/03_combining_conditions" />
@@ -202,6 +207,7 @@
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$02_name_and_exclamation_marks.coverage" NAME="02_name_and_exclamation_marks Coverage Results" MODIFIED="1706898362539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/02_information_from_the_user" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$06_alphabetically_in_the_middle.coverage" NAME="06_alphabetically_in_the_middle Coverage Results" MODIFIED="1707431160074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part02/03_combining_conditions" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$08_loyalty_bonus.coverage" NAME="08_loyalty_bonus Coverage Results" MODIFIED="1707049766009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/05_conditional_statements" />
+    <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$08_working_with_numbers.coverage" NAME="08_working_with_numbers Coverage Results" MODIFIED="1707520748110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part02/04_simple_loops" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$05_story.coverage" NAME="05_story Coverage Results" MODIFIED="1706899907354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/02_information_from_the_user" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$04_minutes_in_a_year.coverage" NAME="04_minutes_in_a_year Coverage Results" MODIFIED="1706897008726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part01/01_getting_started" />
     <SUITE FILE_PATH="coverage/PythonProgrammingMOOC2024$03_typecasting.coverage" NAME="03_typecasting Coverage Results" MODIFIED="1707263534673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part02/01_programming_terminology" />
